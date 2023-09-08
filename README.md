@@ -5,4 +5,3 @@ Here's a demo for a 6-2-4-6 4R mechanism
 
 ![Trail](gitgif.gif)
 
-This code still in development
