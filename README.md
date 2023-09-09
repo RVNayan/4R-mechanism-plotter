@@ -13,4 +13,4 @@ To run the code the following libaries must be installed in you're PC.
 4. OpenCV
 5. os
 
-Please note this in written Jupyter Notebook. A regular version will be available soon.
+Please note this code is written Jupyter Notebook. A regular version will be available soon.
