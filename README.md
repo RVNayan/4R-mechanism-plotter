@@ -3,7 +3,10 @@ A simple code which plots all (almost) possible orientations for any 4R mechanis
 
 Here's a demo for a 6-2-4-6 4R mechanism
 
-![Trail](gitgif.gif) ![Trail2](gitgif2.gif)
+<div style="display: flex; justify-content: center;">
+  <img src="gitgif.gif" alt="Image 1" width="300"/>
+  <img src="gitgif2.git" alt="Image 2" width="300"/>
+</div>
 
 To run the code the following libaries must be installed in you're PC. 
 
