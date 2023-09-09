@@ -1,7 +1,7 @@
 # 4R-mechanism-plotter
 A simple code which plots all (almost) possible orientations for any 4R mechanism 
 
-Here's a demo for a grashoff and non-grashoff mechanisms
+Here's a demo for Grashoff and Non-Grashoff mechanisms
 
 <div style="display: flex; justify-content: center;">
   <img src="gitgif.gif" alt="Image 1" width="300"/>
