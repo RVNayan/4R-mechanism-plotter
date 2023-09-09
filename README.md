@@ -5,3 +5,6 @@ Here's a demo for a 6-2-4-6 4R mechanism
 
 ![Trail](gitgif.gif)
 
+To run the code the following libaries must be installed
+          
+          pip install matplotlib
