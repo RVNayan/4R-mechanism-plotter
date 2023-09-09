@@ -8,12 +8,12 @@ check out a demo for Grashoff and Non-Grashoff mechanisms
   <img src="gitgif2.gif" alt="Image 2" width="300"/>
 </div>
 
-Please install the following python libaries in you System. Note installing each one of these is necessary for proper functioning of code. 
-
+Please install the following python libaries in you System
 1. Pandas
 2. Numpy
 3. matplotlib
 4. OpenCV
 5. os
 
+**Note** installing all of the above packages is necessary for proper functioning of program. 
 This code is written in Jupyter Notebook. A .py version will be made available soon.
