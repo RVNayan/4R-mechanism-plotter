@@ -1,7 +1,7 @@
 # 4R-mechanism-plotter
 A simple code which plots all (almost) possible orientations for a 4R mechanism and compiles them into a video
 
-check out a demo for Grashoff and Non-Grashoff mechanisms
+demo for crank-rocker and double-crank mechanisms
 
 <div style="display: flex; justify-content: center;">
   <img src="gitgif.gif" alt="Image 1" width="300"/>
